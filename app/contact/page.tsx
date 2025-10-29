@@ -47,7 +47,7 @@ export default function Contact() {
       ),
       label: "GitHub",
       value: "github.com/felipegueiredo5",
-      href: "https://github.com/felipegueiredo5",
+      href: "https://github.com/felipefigueiredo1",
       description: "Projetos e código aberto",
       gradient: "from-gray-700 to-gray-800",
       hoverGradient: "hover:from-gray-800 hover:to-gray-900"
