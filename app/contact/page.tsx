@@ -56,7 +56,7 @@ export default function Contact() {
 
   const stats = [
     { number: "4+", label: "Anos de Experiência", icon: "📅" },
-    { number: "50+", label: "Projetos Entregues", icon: "🚀" },
+    { number: "10+", label: "Projetos Entregues", icon: "🚀" },
     { number: "100%", label: "Disponibilidade", icon: "✅" },
     { number: "24h", label: "Tempo de Resposta", icon: "⚡" }
   ];
